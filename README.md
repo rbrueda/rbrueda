@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Rocio Rueda. I am second-year Computer Science student<br>with an interest in machine learning, cybersecurity, and social engineering.
+Hello! My name is Rocio Rueda. I am second-year Computer Science student<br>with an interest in machine learning, data analytics and app development
 
 
 ## 🌐 Socials:
