@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 Second-year Computer Science student<br>
-🌌 Interest in machine learning, data science and app development<br>
+🌌 Interest in machine learning, data science, and app development<br>
 📚 Currently learning preprocessing, databases, and systems programming
 
 
