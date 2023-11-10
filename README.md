@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello! My name is Rocio Rueda. I am second-year Computer Science student<br>with an interest in machine learning, data analytics and app development.
+🎓 Second-year Computer Science student<br>
+🌌 Interest in machine learning, data science and app development<br>
+📚 Currently learning preprocessing, databases, and systems programming
 
 
 ## 🌐 Socials:
