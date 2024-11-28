@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Third-year Computer Science student<br>🌌 Interest in machine learning and data science<br>📚 Currently learning clustering, transformer models, and Power BI<br>💼 Working as a Technical Analyst Co-op @ CIBC
+🎓 Third-year Computer Science student<br>🌌 Interest in machine learning and data science<br>📚 Currently learning clustering, transformer models, and Power BI<br>💼 Working as a Technical Systems Analyst Co-op @ CIBC
 
 
 ## 🌐 Socials:
