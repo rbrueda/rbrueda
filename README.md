@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Third-year Computer Science student<br>🌌 Interest in machine learning and data science<br>📚 Currently learning clustering, transformer models, and Power BI
+🎓 Third-year Computer Science student<br>🌌 Interest in machine learning and data science<br>📚 Currently learning neural networks and embedding algorithms<br>💼 SDE Intern @ Workday
 
 
 ## 🌐 Socials:
